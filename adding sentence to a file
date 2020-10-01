@@ -1,3 +1,5 @@
+#Adding sentence to a file
+
 #include <stdio.h>
 #include <stdlib.h>  /* For exit() function */
 int main()
